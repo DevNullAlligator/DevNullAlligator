@@ -1,8 +1,7 @@
 
 <div align="center">
 
-<!-- Replace this URL with your own banner when ready. -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:101820,100:163D32&text=DevNullAlligator&fontColor=50FA7B&fontSize=42&fontAlignY=50&animation=fadeIn&desc=THREAT%20RESEARCH%20%7C%20RED%20TEAM%20%7C%20DETECTION%20ENGINEERING&descAlignY=75&descSize=12" />
+<img src="DevNullAlligator-banner.png" alt="Cyberpunk alligator digital artwork" width="100%" />
 
 <br/>
 

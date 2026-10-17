@@ -66,27 +66,71 @@
 </tr>
 </table>
 
+
 ## `02 / TECH STACK`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,linux,windows,docker,azure,git,vscode&perline=6" />
+### Languages & Scripting
+
+<img src="https://skillicons.dev/icons?i=c,cpp,go,python,bash,powershell&perline=6" />
+
+### Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,linux,windows&perline=6" />
+
+### Offensive Security & Enterprise Security
+
+<img src="https://img.shields.io/badge/Cobalt%20Strike-C2-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Active%20Directory-Identity%20%26%20Access-0078D4?style=for-the-badge" />
 
 </div>
 
-## `03 / GITHUB ACTIVITY`
+
+## `03 / CERTIFICATIONS`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevNullAlligator&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://img.shields.io/badge/Offensive%20Security-OSCP-CC0000?style=flat-square" />
+<img src="https://img.shields.io/badge/Offensive%20Security-OSCP%2B-CC0000?style=flat-square" />
+<img src="https://img.shields.io/badge/INE-CWES-005A9C?style=flat-square" />
+<img src="https://img.shields.io/badge/Zero%20Point%20Security-CRTP-5B2C83?style=flat-square" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNullAlligator&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://img.shields.io/badge/EC--Council-CEH%20v11-1565C0?style=flat-square" />
+<img src="https://img.shields.io/badge/EC--Council-CEH%20Practical-1565C0?style=flat-square" />
+<img src="https://img.shields.io/badge/EC--Council-CEH%20Master-1565C0?style=flat-square" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=DevNullAlligator&theme=github-dark-blue&hide_border=true" />
+<img src="https://img.shields.io/badge/INE-eJPT-005A9C?style=flat-square" />
+<img src="https://img.shields.io/badge/ISO%2027001-ISMS%20Lead%20Auditor-2E7D32?style=flat-square" />
 
 </div>
 
-## `04 / CONTRIBUTION GRAPH`
+
+## `04 / GITHUB ACTIVITY`
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DevNullAlligator&show_icons=true&theme=github_dark&hide_border=true" width="100%" alt="GitHub statistics" />
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNullAlligator&layout=compact&theme=github_dark&hide_border=true" width="100%" alt="Most used languages" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DevNullAlligator&theme=github-dark-blue&hide_border=true" width="75%" alt="GitHub contribution streak" />
+
+</div>
+
+
+## `05 / CONTRIBUTION GRAPH`
 
 <div align="center">
 
@@ -94,7 +138,7 @@
 
 </div>
 
-## `05 / CURRENT STATUS`
+## `06 / CURRENT STATUS`
 
 ```text
 [+] Exploring security research

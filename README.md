@@ -93,8 +93,8 @@
 
 <img src="https://img.shields.io/badge/Offensive%20Security-OSCP-CC0000?style=flat-square" />
 <img src="https://img.shields.io/badge/Offensive%20Security-OSCP%2B-CC0000?style=flat-square" />
-<img src="https://img.shields.io/badge/INE-CWES-005A9C?style=flat-square" />
-<img src="https://img.shields.io/badge/Zero%20Point%20Security-CRTP-5B2C83?style=flat-square" />
+<img src="https://img.shields.io/badge/HTB-CWES-005A9C?style=flat-square" />
+<img src="https://img.shields.io/badge/Altered%20Security-CRTP-5B2C83?style=flat-square" />
 
 <img src="https://img.shields.io/badge/EC--Council-CEH%20v11-1565C0?style=flat-square" />
 <img src="https://img.shields.io/badge/EC--Council-CEH%20Practical-1565C0?style=flat-square" />
